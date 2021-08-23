@@ -29,3 +29,4 @@ The following functions are currently implemented:
 * `head(array)`: will return the head of the array of numbers (element at index 0)
 * `tail(array)`: will return the tail of the array of numbers (all elements excluding element at index 0)
 * `middle(array)`: will return the value at the middle index of any array, if the array has an even amount of values it will return two middle values.
+* `flatten(array)`: when given an array with a one level of nested arrays, will return the array as a single-level array.
