@@ -18,6 +18,3 @@ describe("#head", () => {
   });
 });
 
-//test code
-//assertEqual(head([]), 5);
-//assertEqual(head([1]), 1);
