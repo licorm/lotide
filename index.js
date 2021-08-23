@@ -5,7 +5,7 @@ const middle = require('./middle');
 
 //export our functions as objects
 module.exports = {
-  head: head,
-  tail: tail,
-  middle: middle
+  head,
+  tail,
+  middle
 };
