@@ -33,3 +33,4 @@ The following functions are currently implemented:
 * `countOnly(allItems, itemsToCount)`: Takes in a collection of items as an array and an object determining which items in our array to count, and return a count of each of the items chosen to count.
 * `countLetters(string)`: takes in a sentence as a string and returns a count of each of the letters in the string.
 * `letterPositions(sentence)`: takes in a sentence as a string and returns all the indices that each letter occurs in.
+* `findKeyByValue(object, search)`: takes in an object and a value. It scans the object and returns the first key which contains the given value. If no key contains that value, it returns undefined.

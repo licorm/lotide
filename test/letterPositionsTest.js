@@ -9,4 +9,3 @@ describe("#letterPositions", () => {
   });
 });
 
-//assertArraysEqual(letterPositions('lighthouse in the house').h, [3, 5, 13, 15]);

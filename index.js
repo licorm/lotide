@@ -6,6 +6,7 @@ const flatten = require('./flatten');
 const countOnly = require('./countOnly');
 const countLetters = require('./countLetters');
 const letterPositions = require('./letterPositions');
+const findKeyByValue = require('./findKeyByValue');
 
 //export our functions as objects
 module.exports = {
@@ -15,5 +16,6 @@ module.exports = {
   flatten,
   countOnly,
   countLetters,
-  letterPositions
+  letterPositions,
+  findKeyByValue
 };
