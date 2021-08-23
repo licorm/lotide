@@ -32,3 +32,4 @@ The following functions are currently implemented:
 * `flatten(array)`: when given an array with a one level of nested arrays, will return the array as a single-level array.
 * `countOnly(allItems, itemsToCount)`: Takes in a collection of items as an array and an object determining which items in our array to count, and return a count of each of the items chosen to count.
 * `countLetters(string)`: takes in a sentence as a string and returns a count of each of the letters in the string.
+* `letterPositions(sentence)`: takes in a sentence as a string and returns all the indices that each letter occurs in.

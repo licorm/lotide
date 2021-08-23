@@ -5,6 +5,7 @@ const middle = require('./middle');
 const flatten = require('./flatten');
 const countOnly = require('./countOnly');
 const countLetters = require('./countLetters');
+const letterPositions = require('./letterPositions');
 
 //export our functions as objects
 module.exports = {
@@ -13,5 +14,6 @@ module.exports = {
   middle,
   flatten,
   countOnly,
-  countLetters
+  countLetters,
+  letterPositions
 };
