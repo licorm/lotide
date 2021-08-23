@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@licorm/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A_mini_clone_of_the_Lodash_library.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/licorm/lotide.git"
   },
-  "author": "",
+  "author": "Lisa_Cormier",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/licorm/lotide/issues"
