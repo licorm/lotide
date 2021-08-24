@@ -1,5 +1,5 @@
 //import eqArrays
-const eqArrays = require(`./eqArrays`);
+const eqArrays = require('./eqArrays');
 
 // function to check if two seperate objects are equal
 const eqObjects = function(object1, object2) {

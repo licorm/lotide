@@ -34,4 +34,5 @@ The following functions are currently implemented:
 * `countLetters(string)`: takes in a sentence as a string and returns a count of each of the letters in the string.
 * `letterPositions(sentence)`: takes in a sentence as a string and returns all the indices that each letter occurs in.
 * `findKeyByValue(object, search)`: takes in an object and a value. It scans the object and returns the first key which contains the given value. If no key contains that value, it returns undefined.
-* `eqArrays(arr1, arr2)`: compares if two arrays are a perfect match
+* `eqArrays(arr1, arr2)`: compares if two arrays are a perfect match.
+* `eqObjects(object1, object2)`: Takes in two objects and determines if both are equal.

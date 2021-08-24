@@ -8,6 +8,7 @@ const countLetters = require('./countLetters');
 const letterPositions = require('./letterPositions');
 const findKeyByValue = require('./findKeyByValue');
 const eqArrays = require('./eqArrays');
+const eqObjects = require('./eqObjects');
 
 //export our functions as objects
 module.exports = {
@@ -19,5 +20,6 @@ module.exports = {
   countLetters,
   letterPositions,
   findKeyByValue,
-  eqArrays
+  eqArrays,
+  eqObjects
 };
